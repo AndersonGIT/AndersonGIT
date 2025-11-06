@@ -1,9 +1,12 @@
 # 👨‍💻 Anderson Diego José de Oliveira
 
 **Full Stack Developer | .NET Specialist | Technical Lead**
+
 📍 Recife, Pernambuco – Brazil
 📧 [andersondiego@live.com](mailto:andersondiego@live.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/andersondiego/) | [Microsoft Certification](https://learn.microsoft.com/api/credentials/share/en-us/AndersonDiego-8151/8295640DFD0DADAA?sharingId=EF2BC93AA6B522AB)
+
+| 🔗 [LinkedIn](https://www.linkedin.com/in/andersondiego/) 
+| [Microsoft Certification](https://learn.microsoft.com/api/credentials/share/en-us/AndersonDiego-8151/8295640DFD0DADAA?sharingId=EF2BC93AA6B522AB)
 
 ---
 
